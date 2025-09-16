@@ -41,5 +41,5 @@ public class AppTest
     public void testHelloParameter()
     {
         assertEquals("Hello JMB!", App.hello("Hello JMB!"));
-    }
+    }//méthode modifiée
 }
