@@ -12,7 +12,7 @@ public class App {
 
     public static String hello() {
         return "Hello World!";
-    }
+    }//méthode modifiée
 
     public static String hello(String param) {
         return param;
